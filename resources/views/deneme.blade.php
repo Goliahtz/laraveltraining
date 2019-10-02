@@ -1,0 +1,4 @@
+burası deneme sayfasıdır
+
+{{$adim}}
+
